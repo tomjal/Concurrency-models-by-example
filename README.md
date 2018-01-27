@@ -1,5 +1,5 @@
 # Concurrency models by example
-:construction: NOT EVEN STARTED :) :construction:
+:construction: ! :construction:
 
 Languages: Java / C# / Erlang / Javascript
 Frameworks: ?
