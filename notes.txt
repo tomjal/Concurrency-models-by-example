@@ -1,0 +1,2 @@
+intro http://www.macs.hw.ac.uk/~rs46/posts/2014-02-03-objects-boxes-actors-agents.html
+erlang http://learnyousomeerlang.com/introduction
